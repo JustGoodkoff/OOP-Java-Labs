@@ -1,0 +1,10 @@
++ ru.nsu.ccfit.gudkov.calculator.Operators.Add
+- ru.nsu.ccfit.gudkov.calculator.Operators.Sub
+* ru.nsu.ccfit.gudkov.calculator.Operators.Mul
+/ ru.nsu.ccfit.gudkov.calculator.Operators.Div
+POP ru.nsu.ccfit.gudkov.calculator.Operators.Pop
+PUSH ru.nsu.ccfit.gudkov.calculator.Operators.Push
+SQRT ru.nsu.ccfit.gudkov.calculator.Operators.Sqrt
+PRINT ru.nsu.ccfit.gudkov.calculator.Operators.Print
+DEFINE ru.nsu.ccfit.gudkov.calculator.Operators.Define
+# ru.nsu.ccfit.gudkov.calculator.Operators.Comment
