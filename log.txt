@@ -1,0 +1,16 @@
+апр. 08, 2023 8:00:33 PM ru.nsu.ccfit.gudkov.calculator.Calculator execute
+FINE: Calculation started
+апр. 08, 2023 8:00:33 PM ru.nsu.ccfit.gudkov.calculator.Calculator execute
+FINE: Operator factory created
+апр. 08, 2023 8:00:37 PM ru.nsu.ccfit.gudkov.calculator.Calculator execute
+FINE: PUSH: operation created successfully
+апр. 08, 2023 8:00:37 PM ru.nsu.ccfit.gudkov.calculator.Calculator execute
+FINE: PUSH: operation completed successfully
+апр. 08, 2023 8:00:38 PM ru.nsu.ccfit.gudkov.calculator.Calculator execute
+FINE: PUSH: operation created successfully
+апр. 08, 2023 8:00:38 PM ru.nsu.ccfit.gudkov.calculator.Calculator execute
+FINE: PUSH: operation completed successfully
+апр. 08, 2023 8:00:41 PM ru.nsu.ccfit.gudkov.calculator.Calculator execute
+FINE: PRINT: operation created successfully
+апр. 08, 2023 8:00:41 PM ru.nsu.ccfit.gudkov.calculator.Calculator execute
+FINE: PRINT: operation completed successfully
